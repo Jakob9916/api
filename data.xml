@@ -1,36 +1,36 @@
 <m:leads xmlns:m="http://webscraper.se.leads-format.1.0">
 	<lead xmlns="http://ws.apache.org/ns/synapse" id="00001">
-		<name>Saab AB</name>
-		<address>Storgatan 23</address>
+		<name>Leopard</name>
+		<address>Storgata</address>
 		<zip>34567</zip>
 		<city>Karlstad</city>
-		<contact>Pelle Jansson</contact>
+		<contact>Pelle Svanslös</contact>
 		<tele>0776-232323</tele>
 		<size>100-200</size>
 		<current_provider>NA</current_provider>
-		<email>info@saab.xxx</email>
+		<email>info@leopard.xxx</email>
 	</lead>
 	<lead xmlns="http://ws.apache.org/ns/synapse" id="00002">
-		<name>Volvo AB</name>
+		<name>Snö leopard</name>
 		<address>Lillgatan 34</address>
 		<zip>23456</zip>
 		<city>Karlstad</city>
 		<contact>Åsa Andersson</contact>
-		<tele>054-1818282</tele>
+		<tele>074-1818282</tele>
 		<size>300-500</size>
 		<current_provider>NA</current_provider>
-		<email>info@volvo.xxx</email>
+		<email>info@snoleopard.xxx</email>
 	</lead>
 	<lead xmlns="http://ws.apache.org/ns/synapse" id="00003">
-		<name>Nikita Hair</name>
-		<address>Hagen 34</address>
+		<name>Lejon</name>
+		<address>Savannen</address>
 		<zip>23458</zip>
 		<city>Karlstad</city>
 		<contact>Karl P Dahl Andersson</contact>
-		<tele>010-1818282</tele>
+		<tele>070-1818282</tele>
 		<size>10</size>
 		<current_provider>Google</current_provider>
-		<email>pdahl@nikita.se</email>
+		<email>infol@lejon.se</email>
 	</lead>
 	<lead xmlns="http://ws.apache.org/ns/synapse" id="00004">
 		<name>Art Uppsala</name>
