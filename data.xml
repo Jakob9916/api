@@ -1,5 +1,3 @@
-
-
 <m:leads xmlns:m="http://webscraper.se.leads-format.1.0">
 	<lead xmlns="http://ws.apache.org/ns/synapse" id="00001">
 		<name>Saab</name>
